@@ -5,7 +5,7 @@ import Welcome from './components/Welcome';
 import Question from './components/Question';
 import GameOver from './components/GameOver';
 
-import './App.css';
+import "./App.css";
 
 
 function App() {
